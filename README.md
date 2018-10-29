@@ -1,2 +1,2 @@
 # Whats-the-weather
-A non weather api based ios swift built with swift
+A non api based ios app built with swift.
